@@ -1,0 +1,99 @@
+# **Shreyas Samir Kolte**  
+**MSCS, University of Southern California | Ex-Analyst, Goldman Sachs | B.E. Computer Science, BITS Pilani**  
+📍 Los Angeles, CA | 📧 shreyaskolte49@gmail.com | 📞 (+91) 8097021586  
+🔗 [LinkedIn](https://www.linkedin.com/in/shreyas-kolte)  
+
+---
+
+## **Professional Summary**  
+Results-driven **Computer Science professional** with a strong background in **software development, cloud computing, and machine learning**. Proven experience at **Goldman Sachs and Amazon**, specializing in **AWS, Java, Python, and data migration**. Published researcher in **AI/ML applications for medical imaging and anomaly detection**. Passionate about **scalable systems, deep learning, and cloud-based solutions**.  
+
+---
+
+## **Work Experience**  
+
+### **Goldman Sachs, Bengaluru**  
+**Analyst** | *July 2022 – October 2024*  
+- Led **cloud migration projects** for Risk, Controllers, and Corporate Treasury divisions, transferring **600+ TB** of data to **AWS and Snowflake**.  
+- Developed **SQL query analyzers** using unsupervised ML to optimize high-cost queries, improving processing efficiency.  
+- Built a **real-time KPI dashboard** using **Python (Plotly-Dash, Pandas)** and **ReactJS** for Credit Risk monitoring.  
+- Automated SSL certificate generation, enabling **HTTPS endpoints** for 5 critical products.  
+- Mentored **2 interns**, guiding their projects and presentations; both secured full-time offers.  
+
+### **Amazon Development Centre, Bengaluru**  
+**Software Development Intern** | *Jan 2022 – June 2022*  
+- Developed **Bulk Lot-Viewer Tool** (Java, ReactJS, AWS DynamoDB) for vendors to track inventory across India.  
+- Created a **proof-of-concept OCR model** to extract product data from package labels.  
+
+### **University of Toronto (MITACS Globalink Program), Canada**  
+**Data Science Research Intern** | *May 2021 – August 2021*  
+- Researched **cardiac MRI analysis** via **Super-Resolution GANs (SR-GANs)**, enhancing image quality for disease detection.  
+
+### **Samsung Research Institute, Delhi**  
+**Intelligence Software Development Intern** | *June 2021 – July 2021*  
+- Built an **object detection model** using infrared imaging to identify obscured objects, reducing model size via quantization.  
+
+### **CSIR-CEERI, India**  
+**Data Science Intern** | *Feb 2021 – Dec 2021*  
+- Published **GAN-based anomaly detection** for airport security (Neural Computing & Applications, Dec ’22).  
+- Developed **COVID-19 detection** from chest X-rays using **U-Net++ segmentation** and explainable AI.  
+
+---
+
+## **Education**  
+### **University of Southern California (USC), Los Angeles**  
+**M.S. in Computer Science** | *2025 (Expected)*  
+
+### **Birla Institute of Technology & Science (BITS), Pilani**  
+**B.E. in Computer Science (Minor: Data Science)** | *CGPA: 8.98/10* | *2018–2022*  
+
+### **Pace Junior Science College, Mumbai**  
+**Class XII (Maharashtra State Board)** | *94.77%* | *2017–2018*  
+
+### **P.G. Garodia School (ICSE), Mumbai**  
+**Class X** | *96.83%* | *2015–2016*  
+
+---
+
+## **Technical Skills**  
+**Programming:** Python (TensorFlow, PyTorch, Scikit-Learn, Pandas), Java, C++, C, JavaScript (ReactJS), C#, MATLAB  
+**Cloud & Databases:** AWS (DynamoDB, S3, Lambda), Snowflake, SQL  
+**Machine Learning:** GANs, Super-Resolution Models, NLP (GPT-2, MP-NET), Computer Vision (U-Net, YOLO)  
+**Frameworks:** Spring Boot, Flask, Plotly-Dash  
+
+---
+
+## **Projects**  
+### **1. GANs for Anomaly Detection in X-Ray Images** *(Computer Vision, GANs)*  
+- Published in **Neural Computing & Applications** (Lead Author).  
+- Designed an **ensemble GAN architecture (GANomaly, Skip-GANomaly)** to detect threats in airport luggage, matching human-level accuracy.  
+
+### **2. Fake News Detection Pipeline** *(NLP, Transformers)*  
+- Built a **multi-stage system** using **GPT-2 and MP-NET** to verify claims against scraped fact-checking sources.  
+
+### **3. COVID-19 Detection via X-Ray Segmentation** *(Medical Imaging, U-Net++)*  
+- Implemented **U-Net++** for lung segmentation, optimizing computational efficiency for COVID-19 diagnosis.  
+
+### **4. Super-Resolution GAN (SRGAN) for Cardiac MRI** *(Generative AI, Medical Imaging)*  
+- Enhanced low-resolution cardiac MRI scans, improving diagnostic clarity for cardiac diseases.  
+
+---
+
+## **Leadership & Awards**  
+- **Mentor, Goldman Sachs** (2023): Guided 2 interns to full-time offers.  
+- **Knowledge Team Head, BITS Pilani** (2020–21): Led national STEM Olympiads (Aarohan, Wissenova).  
+- **Scholarships:**  
+  - **BITS Pilani Merit Scholarship** (Top 1%, ₹159,000).  
+  - **KVPY Fellowship** (Top 800 nationwide).  
+  - **MITACS Globalink Award** ($2,800 CAD).  
+
+---
+
+## **Teaching & Extracurriculars**  
+- **Teaching Assistant (BITS Pilani):**  
+  - Microprocessors (x86 Assembly)  
+  - Non-Linear Optimization  
+
+---  
+
+**Format:** Clean, ATS-optimized, concise bullet points. Tailored for **tech roles in software engineering, ML, and cloud computing**. Let me know if you'd like any refinements! 🚀
